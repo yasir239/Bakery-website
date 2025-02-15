@@ -1,5 +1,3 @@
-Sure! Here’s your README.md, written in your voice:
-
 My Project 🚀
 
 Description
