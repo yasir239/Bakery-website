@@ -18,8 +18,6 @@ Installation & Setup ⚙️
 
 To run this project locally, follow these steps:
 
-Clone the repository:
-
 Install dependencies:
 
 npm install
