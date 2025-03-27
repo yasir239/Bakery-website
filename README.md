@@ -42,9 +42,8 @@ What I Learned 📚
 
 Contact 📩
 
-I’m currently looking for opportunities as a software developer. If you’re interested in my work, feel free to reach out:
-	•	LinkedIn: My LinkedIn Profile
-	•	Email: my.email@example.com
-	•	Portfolio: mywebsite.com
+	•	LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yasir-alobaid-5346682b9/)
+	•	Email: yasiralobaid@outlook.com
+	•	Portfolio: sulimanbakery.com
 
 Let me know if you want any tweaks! If you have a live demo, I can help you add that too.
