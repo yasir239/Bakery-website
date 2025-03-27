@@ -20,9 +20,6 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/my-github-username/project-name.git
-cd project-name
-
 Install dependencies:
 
 npm install
